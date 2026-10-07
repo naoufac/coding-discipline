@@ -2,7 +2,7 @@
 
 Three rules that keep AI coding agents honest. Nothing else.
 
-A agent-discipline prompt/skill for Claude Code, ChatGPT, Codex, OpenClaw, Hermes, or
+An agent-discipline prompt/skill for Claude Code, ChatGPT, Codex, OpenClaw, Hermes, or
 any LLM coding workflow. You paste 17 lines into your agent's system prompt or
 rules file. It stops the two failures that eat AI-assisted projects: editing code
 without understanding the running system, and declaring "done" on a plausible
