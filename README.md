@@ -1,4 +1,6 @@
-# Coding Discipline
+# Naoufal's & AI agent Jasmine coding discipline
+
+![Naoufal's & AI agent Jasmine coding discipline: three rules that keep AI coding agents honest](assets/banner.svg)
 
 Three rules that keep AI coding agents honest. Nothing else.
 
